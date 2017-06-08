@@ -1,9 +1,6 @@
 Name: Nikita Pandya 
 email: npandy18@bu.edu
 
-Partners name: William Ieong
-Partners email: williami@bu.edu
-
 Text Bodies:
 
 Our original texts are the script for “Lord of the Rings: The Fellowship
